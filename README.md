@@ -13,7 +13,7 @@ Problem was on vm i can get respond from ping 192.168.33.10 but cant get any res
 # Week 8
 
 On week 8 i was only able to go through half of milestone 4 because my metasploit version is 5 and some of commands are deprecated.
-![]()
+![](image/ScreenShot0.png)
 
 So i found only one vulnerability based on what i learned previous classes.
 
