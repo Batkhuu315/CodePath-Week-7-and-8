@@ -20,7 +20,7 @@ So i found only one vulnerability based on what i learned previous classes.
 # Walkthrough:
 
 First thing is check version of wpdistillery.vm
-![](Image/ScreenShot1.png)
+![](Image/ScreenShot1 .png)
 
 Then upload a picture(renamed with xss)
 ![](Image/ScreenShot2.png)
