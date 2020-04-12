@@ -13,20 +13,20 @@ Problem was on vm i can get respond from ping 192.168.33.10 but cant get any res
 # Week 8
 
 On week 8 i was only able to go through half of milestone 4 because my metasploit version is 5 and some of commands are deprecated.
-![](image/ScreenShot0.png)
+![](Image/ScreenShot0.png)
 
 So i found only one vulnerability based on what i learned previous classes.
 
 # Walkthrough:
 
 First thing is check version of wpdistillery.vm
-![](image/ScreenShot1.png)
+![](Image/ScreenShot1.png)
 
 Then upload a picture(renamed with xss)
-![](image/ScreenShot2.png)
+![](Image/ScreenShot2.png)
 
 Now that post contain xss and if open attached file it will prompt 
 
-![](image/ScreenShot3.png)
-![](image/ScreenShot4.png)
+![](Image/ScreenShot3.png)
+![](Image/ScreenShot4.png)
 
